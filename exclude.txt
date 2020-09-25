@@ -1,0 +1,17 @@
+base64
+dir-traverse
+extensions
+ghc-prof-flamegraph
+haskell-evm
+io-capture
+language-javascript
+microaeson
+ormolu
+reach
+shell-monad
+simple-smt
+stan
+tasty-html
+trial
+trial-optparse-applicative
+trial-tomland
