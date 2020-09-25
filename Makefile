@@ -10,8 +10,8 @@ packages.txt:
 
 .PHONY: build
 build:
-	docker build . -t $IMAGE:$VERSION
+	docker build . -t $(IMAGE):$(VERSION)
 
 .PHONY: push
 push:
-	docker push $IMAGE:VERSION
+	docker push $(IMAGE):$(VERSION)
