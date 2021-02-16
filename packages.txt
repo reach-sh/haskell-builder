@@ -12,6 +12,7 @@ array
 asn1-encoding
 asn1-parse
 asn1-types
+assoc
 async
 attoparsec
 base
@@ -44,6 +45,7 @@ contravariant
 cookie
 cryptonite
 data-default-class
+data-fix
 deepseq
 digest
 directory
@@ -53,7 +55,6 @@ edit-distance
 erf
 exceptions
 extra
-fail
 file-embed
 filepath
 generic-deriving
@@ -75,6 +76,7 @@ http-client
 http-client-tls
 http-conduit
 http-types
+indexed-traversable
 integer-gmp
 integer-logarithms
 lattices
@@ -120,6 +122,7 @@ stm
 streaming
 streaming-bytestring
 streaming-commons
+strict
 system-filepath
 tagged
 tasty
@@ -138,6 +141,8 @@ text
 text-short
 tf-random
 th-abstraction
+th-compat
+these
 time
 time-compat
 tls

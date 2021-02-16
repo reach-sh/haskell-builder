@@ -1,5 +1,5 @@
 IMAGE=reachsh/haskell-builder
-VERSION=lts-16.12
+VERSION=lts-17.4
 
 # NOTE: prerequisite: reach-lang must exist adjacent to this repo
 # NOTE: this is still somewhat manual;
